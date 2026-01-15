@@ -1,5 +1,6 @@
 namespace TableConverter;
 
-public class DbRepository {
-    
+public class DbRepository
+{
+
 }
